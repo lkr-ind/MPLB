@@ -1,0 +1,37 @@
+numawrap*
+opsversion
+*.h5
+*.dat
+*.eps
+*.pdf
+*.png
+lbm2d_dev_seq
+lbm2d_dev_mpi
+setup_comput_domain
+*.cfg
+__pycache__/PostProcess\.cpython-36\.pyc
+lbm3d_dev_seq
+lbm3d_dev_mpi
+*.ipynb
+3D_post_process.py
+plot.py
+mayavi_3D_post_process.py
+
+# Exlude eclipse files.
+/.cproject
+/.project
+/.vscode
+
+#Object files.
+lbm2d_hilemms_dev_seq
+lbm2d_hilemms_dev_mpi
+
+lbm3d_hilemms_dev_seq
+lbm3d_hilemms_dev_mpi
+
+lbm2d_hilemms_solid_body_dev_seq
+lbm2d_hilemms_solid_body_dev_mpi
+__pycache__/
+
+
+
